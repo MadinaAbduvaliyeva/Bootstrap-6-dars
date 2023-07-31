@@ -1,0 +1,17 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+
+.block{
+
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.buttonn{
+    border-radius: 0!important;
+}
+.nnn{
+    border-radius: 18px!important;
+}
